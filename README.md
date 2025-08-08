@@ -8,6 +8,9 @@ Este es un proyecto para gestionar usuarios, pedidos, notificaciones y productos
 - **Panel Gestion de usuarios**
 - **Panel de usuario**
 
+---
+
+```bash
 /Proyecto-Synapse
 │
 ├── /backend                           # Lógica del servidor         
@@ -56,3 +59,6 @@ Este es un proyecto para gestionar usuarios, pedidos, notificaciones y productos
 │   └── user-panel.php                 # Panel de usuario
 │
 └── index.php                          # Entrada principal del proyecto
+```
+
+---
